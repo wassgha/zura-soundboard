@@ -19,4 +19,4 @@ Try the app at [https://expo.io/@wassgha/zura-soundboard](expo.io/@wassgha/zura-
 
 ### Screenshots
 
-![Screenshot 1](https://github.com/wassgha/zura-soundboard/blob/master/screenshots/screenshot_1.jpg)
+<img src="https://github.com/wassgha/zura-soundboard/blob/master/screenshots/screenshot_1.jpg" width="340" />
