@@ -18,3 +18,5 @@ or
 Try the app at [https://expo.io/@wassgha/zura-soundboard](expo.io/@wassgha/zura-soundboard)
 
 ### Screenshots
+
+![Screenshot 1](https://github.com/wassgha/zura-soundboard/blob/master/screenshots/screenshot_1.jpg)
