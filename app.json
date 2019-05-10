@@ -8,10 +8,10 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
-    "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
+    "icon": "https://i.imgur.com/rvgNwj0.png",
     "loading": {
-      "icon": "https://d1wp6m56sqw74a.cloudfront.net/~assets/c9aa1be8a6a6fe81e20c3ac4106a2ebc",
-      "hideExponentText": false
+      "icon": "https://i.imgur.com/rvgNwj0.png",
+      "hideExponentText": true
     },
     "packagerOpts": {
       "assetExts": ["ttf", "mp4", "otf", "xml"]
