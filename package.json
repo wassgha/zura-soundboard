@@ -1,8 +1,8 @@
 {
-  "name": "zura-soundboard",
-  "version": "0.0.0",
-  "description": "No description",
-  "author": null,
+  "name": "Zura Soundboard",
+  "version": "1.0.0",
+  "description": "A soundboard with common things our friend Zura says",
+  "author": "Wassim Gharbi",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
