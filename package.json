@@ -1,0 +1,17 @@
+{
+  "name": "zura-soundboard",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "randomcolor": "0.5.4",
+    "react-native-material-ripple": "0.8.0",
+    "react-native-paper": "2.2.8",
+    "react-native-platform-touchable": "1.1.1"
+  }
+}
